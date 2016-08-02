@@ -1,0 +1,27 @@
+h1{
+  font-size: 50px;
+  font-weight: bolder;
+  color: rgb(0, 149, 255);
+  text-align: center;
+}
+h2 {
+  font-size: 30px;
+  color: #FF0066;
+}
+
+p {
+  font-size: 35px;
+  font-style: italic;
+  color: #008080;
+  text-align: center;
+}
+
+li {
+  font-size: 25px;
+
+}
+img {
+      display: block;
+      margin: auto;
+      width: 40%;
+}
